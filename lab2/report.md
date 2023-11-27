@@ -49,7 +49,6 @@ topology:
       kind: vr-ros
       image: vrnetlab/vr-routeros:6.47.9
       mgmt-ipv4: 172.30.20.18
-
 links:
   - endpoints: ["R01.MSK:eth2", "R01.FRT:eth2"]
   - endpoints: ["R01.MSK:eth1", "R01.BRL:eth1"]
