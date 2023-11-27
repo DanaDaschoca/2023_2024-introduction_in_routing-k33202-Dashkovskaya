@@ -49,13 +49,6 @@ topology:
       kind: vr-ros
       image: vrnetlab/vr-routeros:6.47.9
       mgmt-ipv4: 172.30.20.18
-links:
-  - endpoints: ["R01.MSK:eth2", "R01.FRT:eth2"]
-  - endpoints: ["R01.MSK:eth1", "R01.BRL:eth1"]
-  - endpoints: ["R01.BRL:eth2", "R01.FRT:eth1"]
-  - endpoints: ["R01.MSK:eth3", "PC1:eth3"]
-  - endpoints: ["R01.FRT:eth3", "PC2:eth3"]
-  - endpoints: ["R01.BRL:eth3", "PC3:eth3"]
 
 #### <a> Сборка и построение происходит также как и в прошлой работе</a> 
 ![граф](https://github.com/DanaDaschoca/2023_2024-introduction_in_routing-k33202-Dashkovskaya/assets/90696514/210f5906-3fef-4a56-89cc-43bab7996410)
