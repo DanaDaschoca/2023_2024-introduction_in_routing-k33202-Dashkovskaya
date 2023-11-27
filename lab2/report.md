@@ -65,7 +65,8 @@ topology:
 #### <a> Настройка PC2</a> 
 ![PC2](https://github.com/DanaDaschoca/2023_2024-introduction_in_routing-k33202-Dashkovskaya/assets/90696514/acd1d299-b8bd-45ef-b456-df0b4514e387)
 #### <a> Настройка PC3</a>    
-![PC3](https://github.com/DanaDaschoca/2023_2024-introduction_in_routing-k33202-Dashkovskaya/assets/90696514/515eb6ed-0f61-4eaf-89b7-db22098e9881)
+![PC3](https://github.com/DanaDaschoca/2023_2024-introduction_in_routing-k33202-Dashkovskaya/assets/90696514/3c1b4ce9-2ec9-469a-bbb2-48b47a397e25)
+
 #### <a> Результаты пингов:</a> 
 #### <a> Для этого заходим в каждый PC1 PC2 PC3  и вводим ping </a> 
 ![ping 1](https://github.com/DanaDaschoca/2023_2024-introduction_in_routing-k33202-Dashkovskaya/assets/90696514/db249821-bdf4-42a6-83f3-eba67eaf9901)
