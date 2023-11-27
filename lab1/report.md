@@ -14,3 +14,17 @@ Date of finished: 24.11.2023
 ## <a name="part_2">Цель работы</a>
 Ознакомиться с инструментом ContainerLab и методами работы с ним, изучить работу VLAN, IP адресации и т.д.
 ### <a name="part_3.2">Схема связи</a>
+![схема](https://github.com/DanaDaschoca/2023_2024-introduction_in_routing-k33202-Dashkovskaya/assets/90696514/2f11b327-89a3-46da-83d2-6bbcf2b929f8)
+### <a name="part_3.3">Конфигурации устройств</a>
+#### Перед конфигурацией всегда есть окно с MikroTik
+![MikroTik](https://github.com/DanaDaschoca/2023_2024-introduction_in_routing-k33202-Dashkovskaya/assets/90696514/77d3bd56-a6b0-4ad7-aa94-2f7c48c2268b)
+#### R01
+![R01](https://github.com/DanaDaschoca/2023_2024-introduction_in_routing-k33202-Dashkovskaya/assets/90696514/9067ab20-d883-482f-a5a4-6bf2bd976c21)
+#### SW01.L3.01
+![SW01 L3 01](https://github.com/DanaDaschoca/2023_2024-introduction_in_routing-k33202-Dashkovskaya/assets/90696514/88d06680-4cb2-462d-b769-c1ab91af8f1a)
+#### SW02.L3.01
+![SW02 L3 01](https://github.com/DanaDaschoca/2023_2024-introduction_in_routing-k33202-Dashkovskaya/assets/90696514/142ac939-5af2-4240-818a-0e7d5657b40c)
+#### SW02.L3.02
+![SW02 L3 02](https://github.com/DanaDaschoca/2023_2024-introduction_in_routing-k33202-Dashkovskaya/assets/90696514/4b02db73-5e36-4245-ab02-d21b44816785)
+### <a name="part_4">Проверка связности</a>
+![проверка](https://github.com/DanaDaschoca/2023_2024-introduction_in_routing-k33202-Dashkovskaya/assets/90696514/76d53470-2bcb-4638-91a6-f904ad34a42c)
