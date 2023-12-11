@@ -14,7 +14,7 @@ Date of finished: 24.11.2023
 ## <a name="part_2">Цель работы</a>
 Ознакомиться с инструментом ContainerLab и методами работы с ним, изучить работу VLAN, IP адресации и т.д.
 ### <a name="part_3.2">Схема связи</a>
-![схема](https://github.com/DanaDaschoca/2023_2024-introduction_in_routing-k33202-Dashkovskaya/assets/90696514/2f11b327-89a3-46da-83d2-6bbcf2b929f8)
+![image](https://github.com/DanaDaschoca/2023_2024-introduction_in_routing-k33202-Dashkovskaya/assets/90696514/48413b57-0fc9-4bc9-9436-e7b923d69629)
 ### <a name="part_3.3">Конфигурации устройств</a>
 #### Перед конфигурацией всегда есть окно с MikroTik
 ![MikroTik](https://github.com/DanaDaschoca/2023_2024-introduction_in_routing-k33202-Dashkovskaya/assets/90696514/77d3bd56-a6b0-4ad7-aa94-2f7c48c2268b)
