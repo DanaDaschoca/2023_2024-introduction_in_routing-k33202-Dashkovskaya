@@ -16,10 +16,10 @@ Date of finished: 11.12.2023
 * EoMPLS - EoMPLS представляет собой метод передачи Ethernet-фреймов через MPLS-сеть, позволяя нам объединить преимущества обоих протоколов.
 #### <a>Первый этап</a>
 * С помощью данной команды создаем папку: 
---- touch marsh2.clab.yaml---
+--- touch marsh3.clab.yaml---
 * В файл записываем построение сети 
 * С помощью данной команды собираем Containerlab:
---- sudo clab deploy marsh2.clab.yaml---
+--- sudo clab deploy marsh3.clab.yaml---
 * С помощью данной команды строим нашу сеть:
 --- sudo clab graph ---
 ![image](https://github.com/DanaDaschoca/2023_2024-introduction_in_routing-k33202-Dashkovskaya/assets/90696514/ffb6fde8-376d-406d-a20e-cad16e0bedb3)
